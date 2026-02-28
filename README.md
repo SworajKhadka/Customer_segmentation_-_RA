@@ -127,3 +127,9 @@ Scikit-learn
 Plotly  
 Jupyter Notebook  
 
+##Author
+
+Sworaj Khadka
+Data Science
+
+
